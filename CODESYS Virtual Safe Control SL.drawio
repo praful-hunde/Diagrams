@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0" version="27.2.0">
   <diagram name="Page-1" id="D7aggsgGusqNKwHGmpUE">
-    <mxGraphModel dx="1371" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1158" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2XYO7jUWF8z6qgWEu6B7-32" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;strokeColor=light-dark(#000000,#0066CC);" parent="1" vertex="1">
           <mxGeometry x="640" y="185" width="430" height="630" as="geometry" />
         </mxCell>
-        <mxCell id="2XYO7jUWF8z6qgWEu6B7-1" value="Lenze PLC Designer V4.1.xx" style="swimlane;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="2XYO7jUWF8z6qgWEu6B7-1" value="Lenze PLC Designer V4.x.xx" style="swimlane;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="202.5" width="340" height="200" as="geometry" />
         </mxCell>
         <mxCell id="cCYtjRuljg_lO-Vk8n9Z-22" value="" style="group;labelBackgroundColor=none;" vertex="1" connectable="0" parent="2XYO7jUWF8z6qgWEu6B7-1">
