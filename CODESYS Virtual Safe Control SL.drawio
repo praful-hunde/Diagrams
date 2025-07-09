@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2XYO7jUWF8z6qgWEu6B7-32" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="660" y="380" width="390" height="630" as="geometry" />
+          <mxGeometry x="640" y="380" width="430" height="630" as="geometry" />
         </mxCell>
         <mxCell id="2XYO7jUWF8z6qgWEu6B7-1" value="Lenze PLC Designer" style="swimlane;fontSize=17;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="371.5" width="340" height="200" as="geometry" />
@@ -25,14 +25,11 @@
             <mxPoint x="200" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2XYO7jUWF8z6qgWEu6B7-12" value="" style="shape=link;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="2XYO7jUWF8z6qgWEu6B7-13" edge="1">
+        <mxCell id="2XYO7jUWF8z6qgWEu6B7-12" value="" style="shape=link;html=1;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" target="cCYtjRuljg_lO-Vk8n9Z-25" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="439.8067632850241" y="925.9033816425122" as="sourcePoint" />
-            <mxPoint x="590" y="840" as="targetPoint" />
+            <mxPoint x="600" y="925.1219512195121" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="2XYO7jUWF8z6qgWEu6B7-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="600" y="900" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2XYO7jUWF8z6qgWEu6B7-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -137,7 +134,7 @@
           <mxGeometry x="360" y="635" width="140" height="35" as="geometry" />
         </mxCell>
         <mxCell id="cCYtjRuljg_lO-Vk8n9Z-15" value="Field Devics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="375" y="630" width="110" height="45" as="geometry" />
+          <mxGeometry x="367" y="630" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="cCYtjRuljg_lO-Vk8n9Z-17" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="2XYO7jUWF8z6qgWEu6B7-35" target="cCYtjRuljg_lO-Vk8n9Z-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -146,13 +143,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cCYtjRuljg_lO-Vk8n9Z-19" value="PROFIsafe" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="623" width="110" height="40" as="geometry" />
+          <mxGeometry x="530" y="625" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cCYtjRuljg_lO-Vk8n9Z-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Docker Image with safety certified CODESYS PLC Runtime&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="690" y="755.5" width="330" height="74.5" as="geometry" />
+        <mxCell id="cCYtjRuljg_lO-Vk8n9Z-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Docker Image with safety certified CODESYS PLC Runtime&lt;/span&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="780" width="330" height="89" as="geometry" />
         </mxCell>
         <mxCell id="cCYtjRuljg_lO-Vk8n9Z-23" value="&#xa;&lt;span style=&quot;font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Industrial PC&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;rounded=0;fontSize=23;labelBackgroundColor=none;strokeWidth=0;strokeColor=none;fontColor=default;labelBorderColor=none;whiteSpace=wrap;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="744" y="970" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cCYtjRuljg_lO-Vk8n9Z-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.ethernet_port;" vertex="1" parent="1">
+          <mxGeometry x="591" y="900" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
