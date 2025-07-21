@@ -194,7 +194,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KEu1qA3JAobn0XT2DKJx-105" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Topics to Explore:&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Can Virtual PLC be installed on Controller/RT Linux hardware instead of IPC or generic hardware?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Can RT Linux support docker or can such support be added?&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KEu1qA3JAobn0XT2DKJx-105" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Topics to Explore:&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Can Virtual PLC be installed on Controller/RT Linux hardware instead of IPC or generic hardware?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Can controller hardware &amp;amp; RT Linux support docker or can such support be added?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1300" y="125" width="760" height="575" as="geometry" />
         </mxCell>
       </root>
