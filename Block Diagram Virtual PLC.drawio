@@ -192,9 +192,6 @@
         <mxCell id="KEu1qA3JAobn0XT2DKJx-84" value="PLC Designer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="C60B_lWWUPGH02po61HV-3" vertex="1">
           <mxGeometry y="14.666666666666666" width="330" height="73.33333333333333" as="geometry" />
         </mxCell>
-        <mxCell id="C60B_lWWUPGH02po61HV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
