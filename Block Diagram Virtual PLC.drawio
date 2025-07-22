@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="C60B_lWWUPGH02po61HV-5" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=0.5;" vertex="1" parent="1">
+          <mxGeometry width="1300" height="810" as="geometry" />
+        </mxCell>
         <mxCell id="KEu1qA3JAobn0XT2DKJx-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="60" y="460" width="130" height="50" as="geometry" />
         </mxCell>
@@ -124,12 +127,6 @@
         <mxCell id="KEu1qA3JAobn0XT2DKJx-82" value="Virtual Safe Control" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" parent="KEu1qA3JAobn0XT2DKJx-80" vertex="1">
           <mxGeometry width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KEu1qA3JAobn0XT2DKJx-83" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="130" width="240" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="KEu1qA3JAobn0XT2DKJx-84" value="PLC Designer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="80" y="140" width="250" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="KEu1qA3JAobn0XT2DKJx-85" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KEu1qA3JAobn0XT2DKJx-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="390" as="sourcePoint" />
@@ -185,6 +182,18 @@
         </mxCell>
         <mxCell id="KEu1qA3JAobn0XT2DKJx-105" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Topics to Explore:&lt;/h1&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1. Can Virtual PLC be installed on&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;controller hardware &amp;amp; RT Linux&amp;nbsp;instead of&lt;/span&gt;&lt;font size=&quot;3&quot;&gt;&amp;nbsp;generic hardware?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Can controller hardware &amp;amp; RT Linux support docker or can such support be added?&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3. Can the PLC Runtime used in Controller be modified with Silistra transformer to be SL3 compliant and used on Controller to avoid hardware certification.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="10" width="760" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="C60B_lWWUPGH02po61HV-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="60" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="KEu1qA3JAobn0XT2DKJx-83" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="C60B_lWWUPGH02po61HV-3" vertex="1">
+          <mxGeometry width="316.8" height="219.99999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="KEu1qA3JAobn0XT2DKJx-84" value="PLC Designer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" parent="C60B_lWWUPGH02po61HV-3" vertex="1">
+          <mxGeometry y="14.666666666666666" width="330" height="73.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="C60B_lWWUPGH02po61HV-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
